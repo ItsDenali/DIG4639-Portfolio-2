@@ -1,4 +1,4 @@
-# Portfolio 2 (AHHHHHHHHHHHHH)
+# Portfolio 2
  
 This project contains TWO screens and THREE components.
 
