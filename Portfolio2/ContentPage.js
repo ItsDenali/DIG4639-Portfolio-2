@@ -1,6 +1,5 @@
 import { Button, Pressable, Text, TextInput, View, Image, Dimensions, TouchableOpacity } from "react-native";
 import { useCallback, useState } from 'react'
-//import Ionicons from 'react-native-vector-icons/Ionicons';
 
 export default function ContentPage() {
 
